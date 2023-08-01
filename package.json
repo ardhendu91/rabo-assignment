@@ -1,0 +1,25 @@
+{
+  "name": "rabo-assignment",
+  "version": "1.0.0",
+  "description": "Assignment for Rabo Bank",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhendu91/rabo-assignment.git"
+  },
+  "author": "Ardhendu Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardhendu91/rabo-assignment/issues"
+  },
+  "homepage": "https://github.com/ardhendu91/rabo-assignment#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "xml2js": "^0.6.2"
+  }
+}
